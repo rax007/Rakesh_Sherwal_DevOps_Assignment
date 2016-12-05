@@ -1,0 +1,9 @@
+c:\users\rakeshsherwal\documents\visual studio 2013\Projects\RakeshDevOpsAssignment\TestClass.test\obj\Debug\TestClass.test.csprojResolveAssemblyReference.cache
+c:\users\rakeshsherwal\documents\visual studio 2013\Projects\RakeshDevOpsAssignment\TestClass.test\bin\Debug\TestClass.test.dll
+c:\users\rakeshsherwal\documents\visual studio 2013\Projects\RakeshDevOpsAssignment\TestClass.test\bin\Debug\TestClass.test.pdb
+c:\users\rakeshsherwal\documents\visual studio 2013\Projects\RakeshDevOpsAssignment\TestClass.test\bin\Debug\nunit.framework.dll
+c:\users\rakeshsherwal\documents\visual studio 2013\Projects\RakeshDevOpsAssignment\TestClass.test\bin\Debug\RakeshDevOpsAssignment.exe
+c:\users\rakeshsherwal\documents\visual studio 2013\Projects\RakeshDevOpsAssignment\TestClass.test\bin\Debug\RakeshDevOpsAssignment.pdb
+c:\users\rakeshsherwal\documents\visual studio 2013\Projects\RakeshDevOpsAssignment\TestClass.test\bin\Debug\nunit.framework.xml
+c:\users\rakeshsherwal\documents\visual studio 2013\Projects\RakeshDevOpsAssignment\TestClass.test\obj\Debug\TestClass.test.dll
+c:\users\rakeshsherwal\documents\visual studio 2013\Projects\RakeshDevOpsAssignment\TestClass.test\obj\Debug\TestClass.test.pdb

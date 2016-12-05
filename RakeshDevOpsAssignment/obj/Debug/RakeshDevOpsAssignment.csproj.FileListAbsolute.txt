@@ -1,0 +1,5 @@
+c:\users\rakeshsherwal\documents\visual studio 2013\Projects\RakeshDevOpsAssignment\RakeshDevOpsAssignment\bin\Debug\RakeshDevOpsAssignment.exe.config
+c:\users\rakeshsherwal\documents\visual studio 2013\Projects\RakeshDevOpsAssignment\RakeshDevOpsAssignment\bin\Debug\RakeshDevOpsAssignment.exe
+c:\users\rakeshsherwal\documents\visual studio 2013\Projects\RakeshDevOpsAssignment\RakeshDevOpsAssignment\bin\Debug\RakeshDevOpsAssignment.pdb
+c:\users\rakeshsherwal\documents\visual studio 2013\Projects\RakeshDevOpsAssignment\RakeshDevOpsAssignment\obj\Debug\RakeshDevOpsAssignment.exe
+c:\users\rakeshsherwal\documents\visual studio 2013\Projects\RakeshDevOpsAssignment\RakeshDevOpsAssignment\obj\Debug\RakeshDevOpsAssignment.pdb

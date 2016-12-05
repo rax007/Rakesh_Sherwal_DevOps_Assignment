@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RakeshDevOpsAssignment", "RakeshDevOpsAssignment\RakeshDevOpsAssignment.csproj", "{93426D3E-FC34-43C0-B89A-DEB9DCB62285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClass.test", "TestClass.test\TestClass.test.csproj", "{72BDFA1E-251C-43C1-B361-B35881FCD712}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93426D3E-FC34-43C0-B89A-DEB9DCB62285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93426D3E-FC34-43C0-B89A-DEB9DCB62285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93426D3E-FC34-43C0-B89A-DEB9DCB62285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93426D3E-FC34-43C0-B89A-DEB9DCB62285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72BDFA1E-251C-43C1-B361-B35881FCD712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72BDFA1E-251C-43C1-B361-B35881FCD712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72BDFA1E-251C-43C1-B361-B35881FCD712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72BDFA1E-251C-43C1-B361-B35881FCD712}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
